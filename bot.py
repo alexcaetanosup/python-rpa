@@ -14,7 +14,7 @@ class Bot:
         # Displayname: LoggerConfig
         loggerBot = logging.getLogger("Cadastro de Fornecedores")
         loggerBot.setLevel(logging.DEBUG)
-        filelogging = RotatingFileHandler("fileLogging.log", maxBytes = 20000, backupCount = 10)
+        filelogging = RotatingFileHandler("fileLogging.log", maxBytes = 100000, backupCount = 10)
         filelogging.setLevel(logging.DEBUG)
         formatter = logging.Formatter("%(asctime)s - %(name)s - %(levelname)s - %(message)s")
         filelogging.setFormatter(formatter)
@@ -232,6 +232,10 @@ class Bot:
             campoNomeRazao.send_keys(linha[1])
 
             loggerBot.info("End: Type Into campoNomeRazao field")
+
+            #  Write Log Activity
+            # Displayname: WriteLog
+            loggerBot.debug(linha[1])
 
             # Type Into Activity
             loggerBot.info("Start: Type Into campoCpfCnpj field")

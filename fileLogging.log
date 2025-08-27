@@ -1,0 +1,402 @@
+2025-08-27 16:04:38,465 - Cadastro de Fornecedores - INFO - End: Type Into campoNomeRazao field
+2025-08-27 16:04:38,474 - Cadastro de Fornecedores - DEBUG - Marcelo Dias
+2025-08-27 16:04:38,474 - Cadastro de Fornecedores - INFO - Start: Type Into campoCpfCnpj field
+2025-08-27 16:04:38,532 - Cadastro de Fornecedores - INFO - End: Type Into campoCpfCnpj field
+2025-08-27 16:04:38,532 - Cadastro de Fornecedores - INFO - Start: Click in botaoEnviar element
+2025-08-27 16:04:38,586 - Cadastro de Fornecedores - INFO - End: Click in botaoEnviar element
+2025-08-27 16:04:38,586 - Cadastro de Fornecedores - INFO - End: Mapear elementos da planilha excel (Form_Element_Action_Web)
+2025-08-27 16:04:38,590 - Cadastro de Fornecedores - INFO - Start: Mapear elementos da planilha excel (Form_Element_Action_Web)
+2025-08-27 16:04:38,591 - Cadastro de Fornecedores - INFO - Start: If Condition
+2025-08-27 16:04:38,591 - Cadastro de Fornecedores - INFO - Start: Else
+2025-08-27 16:04:38,591 - Cadastro de Fornecedores - INFO - Start: Click in botaoPJ element
+2025-08-27 16:04:38,676 - Cadastro de Fornecedores - INFO - End: Click in botaoPJ element
+2025-08-27 16:04:38,676 - Cadastro de Fornecedores - INFO - End: Else
+2025-08-27 16:04:38,676 - Cadastro de Fornecedores - INFO - Start: Type Into campoNomeRazao field
+2025-08-27 16:04:38,712 - Cadastro de Fornecedores - INFO - End: Type Into campoNomeRazao field
+2025-08-27 16:04:38,712 - Cadastro de Fornecedores - DEBUG - Empresa Lambda
+2025-08-27 16:04:38,713 - Cadastro de Fornecedores - INFO - Start: Type Into campoCpfCnpj field
+2025-08-27 16:04:38,754 - Cadastro de Fornecedores - INFO - End: Type Into campoCpfCnpj field
+2025-08-27 16:04:38,754 - Cadastro de Fornecedores - INFO - Start: Click in botaoEnviar element
+2025-08-27 16:04:38,796 - Cadastro de Fornecedores - INFO - End: Click in botaoEnviar element
+2025-08-27 16:04:38,796 - Cadastro de Fornecedores - INFO - End: Mapear elementos da planilha excel (Form_Element_Action_Web)
+2025-08-27 16:04:38,797 - Cadastro de Fornecedores - INFO - Start: Mapear elementos da planilha excel (Form_Element_Action_Web)
+2025-08-27 16:04:38,797 - Cadastro de Fornecedores - INFO - Start: If Condition
+2025-08-27 16:04:38,797 - Cadastro de Fornecedores - INFO - Start: Click in botaoPF element
+2025-08-27 16:04:38,849 - Cadastro de Fornecedores - INFO - End: Click in botaoPF element
+2025-08-27 16:04:38,849 - Cadastro de Fornecedores - INFO - End: If Condition
+2025-08-27 16:04:38,849 - Cadastro de Fornecedores - INFO - Start: Type Into campoNomeRazao field
+2025-08-27 16:04:38,887 - Cadastro de Fornecedores - INFO - End: Type Into campoNomeRazao field
+2025-08-27 16:04:38,888 - Cadastro de Fornecedores - DEBUG - Patricia Gomes
+2025-08-27 16:04:38,888 - Cadastro de Fornecedores - INFO - Start: Type Into campoCpfCnpj field
+2025-08-27 16:04:38,928 - Cadastro de Fornecedores - INFO - End: Type Into campoCpfCnpj field
+2025-08-27 16:04:38,928 - Cadastro de Fornecedores - INFO - Start: Click in botaoEnviar element
+2025-08-27 16:04:38,970 - Cadastro de Fornecedores - INFO - End: Click in botaoEnviar element
+2025-08-27 16:04:38,970 - Cadastro de Fornecedores - INFO - End: Mapear elementos da planilha excel (Form_Element_Action_Web)
+2025-08-27 16:04:38,970 - Cadastro de Fornecedores - INFO - Start: Mapear elementos da planilha excel (Form_Element_Action_Web)
+2025-08-27 16:04:38,970 - Cadastro de Fornecedores - INFO - Start: If Condition
+2025-08-27 16:04:38,970 - Cadastro de Fornecedores - INFO - Start: Else
+2025-08-27 16:04:38,970 - Cadastro de Fornecedores - INFO - Start: Click in botaoPJ element
+2025-08-27 16:04:39,030 - Cadastro de Fornecedores - INFO - End: Click in botaoPJ element
+2025-08-27 16:04:39,030 - Cadastro de Fornecedores - INFO - End: Else
+2025-08-27 16:04:39,030 - Cadastro de Fornecedores - INFO - Start: Type Into campoNomeRazao field
+2025-08-27 16:04:39,107 - Cadastro de Fornecedores - INFO - End: Type Into campoNomeRazao field
+2025-08-27 16:04:39,108 - Cadastro de Fornecedores - DEBUG - Empresa Mu
+2025-08-27 16:04:39,108 - Cadastro de Fornecedores - INFO - Start: Type Into campoCpfCnpj field
+2025-08-27 16:04:39,195 - Cadastro de Fornecedores - INFO - End: Type Into campoCpfCnpj field
+2025-08-27 16:04:39,195 - Cadastro de Fornecedores - INFO - Start: Click in botaoEnviar element
+2025-08-27 16:04:39,259 - Cadastro de Fornecedores - INFO - End: Click in botaoEnviar element
+2025-08-27 16:04:39,259 - Cadastro de Fornecedores - INFO - End: Mapear elementos da planilha excel (Form_Element_Action_Web)
+2025-08-27 16:04:39,259 - Cadastro de Fornecedores - INFO - Start: Mapear elementos da planilha excel (Form_Element_Action_Web)
+2025-08-27 16:04:39,259 - Cadastro de Fornecedores - INFO - Start: If Condition
+2025-08-27 16:04:39,259 - Cadastro de Fornecedores - INFO - Start: Click in botaoPF element
+2025-08-27 16:04:39,379 - Cadastro de Fornecedores - INFO - End: Click in botaoPF element
+2025-08-27 16:04:39,379 - Cadastro de Fornecedores - INFO - End: If Condition
+2025-08-27 16:04:39,379 - Cadastro de Fornecedores - INFO - Start: Type Into campoNomeRazao field
+2025-08-27 16:04:39,474 - Cadastro de Fornecedores - INFO - End: Type Into campoNomeRazao field
+2025-08-27 16:04:39,475 - Cadastro de Fornecedores - DEBUG - Thiago Barbosa
+2025-08-27 16:04:39,475 - Cadastro de Fornecedores - INFO - Start: Type Into campoCpfCnpj field
+2025-08-27 16:04:39,573 - Cadastro de Fornecedores - INFO - End: Type Into campoCpfCnpj field
+2025-08-27 16:04:39,573 - Cadastro de Fornecedores - INFO - Start: Click in botaoEnviar element
+2025-08-27 16:04:39,699 - Cadastro de Fornecedores - INFO - End: Click in botaoEnviar element
+2025-08-27 16:04:39,699 - Cadastro de Fornecedores - INFO - End: Mapear elementos da planilha excel (Form_Element_Action_Web)
+2025-08-27 16:04:39,699 - Cadastro de Fornecedores - INFO - Start: Mapear elementos da planilha excel (Form_Element_Action_Web)
+2025-08-27 16:04:39,699 - Cadastro de Fornecedores - INFO - Start: If Condition
+2025-08-27 16:04:39,699 - Cadastro de Fornecedores - INFO - Start: Else
+2025-08-27 16:04:39,699 - Cadastro de Fornecedores - INFO - Start: Click in botaoPJ element
+2025-08-27 16:04:39,838 - Cadastro de Fornecedores - INFO - End: Click in botaoPJ element
+2025-08-27 16:04:39,839 - Cadastro de Fornecedores - INFO - End: Else
+2025-08-27 16:04:39,839 - Cadastro de Fornecedores - INFO - Start: Type Into campoNomeRazao field
+2025-08-27 16:04:39,978 - Cadastro de Fornecedores - INFO - End: Type Into campoNomeRazao field
+2025-08-27 16:04:39,978 - Cadastro de Fornecedores - DEBUG - Empresa Nu
+2025-08-27 16:04:39,979 - Cadastro de Fornecedores - INFO - Start: Type Into campoCpfCnpj field
+2025-08-27 16:04:40,141 - Cadastro de Fornecedores - INFO - End: Type Into campoCpfCnpj field
+2025-08-27 16:04:40,141 - Cadastro de Fornecedores - INFO - Start: Click in botaoEnviar element
+2025-08-27 16:04:40,294 - Cadastro de Fornecedores - INFO - End: Click in botaoEnviar element
+2025-08-27 16:04:40,295 - Cadastro de Fornecedores - INFO - End: Mapear elementos da planilha excel (Form_Element_Action_Web)
+2025-08-27 16:04:40,295 - Cadastro de Fornecedores - INFO - Start: Mapear elementos da planilha excel (Form_Element_Action_Web)
+2025-08-27 16:04:40,295 - Cadastro de Fornecedores - INFO - Start: If Condition
+2025-08-27 16:04:40,295 - Cadastro de Fornecedores - INFO - Start: Click in botaoPF element
+2025-08-27 16:04:40,486 - Cadastro de Fornecedores - INFO - End: Click in botaoPF element
+2025-08-27 16:04:40,487 - Cadastro de Fornecedores - INFO - End: If Condition
+2025-08-27 16:04:40,487 - Cadastro de Fornecedores - INFO - Start: Type Into campoNomeRazao field
+2025-08-27 16:04:40,637 - Cadastro de Fornecedores - INFO - End: Type Into campoNomeRazao field
+2025-08-27 16:04:40,638 - Cadastro de Fornecedores - DEBUG - Gabriela Martins
+2025-08-27 16:04:40,638 - Cadastro de Fornecedores - INFO - Start: Type Into campoCpfCnpj field
+2025-08-27 16:04:40,770 - Cadastro de Fornecedores - INFO - End: Type Into campoCpfCnpj field
+2025-08-27 16:04:40,770 - Cadastro de Fornecedores - INFO - Start: Click in botaoEnviar element
+2025-08-27 16:04:40,900 - Cadastro de Fornecedores - INFO - End: Click in botaoEnviar element
+2025-08-27 16:04:40,900 - Cadastro de Fornecedores - INFO - End: Mapear elementos da planilha excel (Form_Element_Action_Web)
+2025-08-27 16:04:40,900 - Cadastro de Fornecedores - INFO - Start: Mapear elementos da planilha excel (Form_Element_Action_Web)
+2025-08-27 16:04:40,900 - Cadastro de Fornecedores - INFO - Start: If Condition
+2025-08-27 16:04:40,900 - Cadastro de Fornecedores - INFO - Start: Else
+2025-08-27 16:04:40,901 - Cadastro de Fornecedores - INFO - Start: Click in botaoPJ element
+2025-08-27 16:04:41,046 - Cadastro de Fornecedores - INFO - End: Click in botaoPJ element
+2025-08-27 16:04:41,047 - Cadastro de Fornecedores - INFO - End: Else
+2025-08-27 16:04:41,047 - Cadastro de Fornecedores - INFO - Start: Type Into campoNomeRazao field
+2025-08-27 16:04:41,194 - Cadastro de Fornecedores - INFO - End: Type Into campoNomeRazao field
+2025-08-27 16:04:41,195 - Cadastro de Fornecedores - DEBUG - Empresa Xi
+2025-08-27 16:04:41,195 - Cadastro de Fornecedores - INFO - Start: Type Into campoCpfCnpj field
+2025-08-27 16:04:41,364 - Cadastro de Fornecedores - INFO - End: Type Into campoCpfCnpj field
+2025-08-27 16:04:41,364 - Cadastro de Fornecedores - INFO - Start: Click in botaoEnviar element
+2025-08-27 16:04:41,527 - Cadastro de Fornecedores - INFO - End: Click in botaoEnviar element
+2025-08-27 16:04:41,528 - Cadastro de Fornecedores - INFO - End: Mapear elementos da planilha excel (Form_Element_Action_Web)
+2025-08-27 16:04:41,528 - Cadastro de Fornecedores - INFO - Start: Mapear elementos da planilha excel (Form_Element_Action_Web)
+2025-08-27 16:04:41,528 - Cadastro de Fornecedores - INFO - Start: If Condition
+2025-08-27 16:04:41,528 - Cadastro de Fornecedores - INFO - Start: Click in botaoPF element
+2025-08-27 16:04:41,694 - Cadastro de Fornecedores - INFO - End: Click in botaoPF element
+2025-08-27 16:04:41,695 - Cadastro de Fornecedores - INFO - End: If Condition
+2025-08-27 16:04:41,695 - Cadastro de Fornecedores - INFO - Start: Type Into campoNomeRazao field
+2025-08-27 16:04:41,815 - Cadastro de Fornecedores - INFO - End: Type Into campoNomeRazao field
+2025-08-27 16:04:41,816 - Cadastro de Fornecedores - DEBUG - Renato Rodrigues
+2025-08-27 16:04:41,816 - Cadastro de Fornecedores - INFO - Start: Type Into campoCpfCnpj field
+2025-08-27 16:04:41,969 - Cadastro de Fornecedores - INFO - End: Type Into campoCpfCnpj field
+2025-08-27 16:04:41,970 - Cadastro de Fornecedores - INFO - Start: Click in botaoEnviar element
+2025-08-27 16:04:42,144 - Cadastro de Fornecedores - INFO - End: Click in botaoEnviar element
+2025-08-27 16:04:42,144 - Cadastro de Fornecedores - INFO - End: Mapear elementos da planilha excel (Form_Element_Action_Web)
+2025-08-27 16:04:42,144 - Cadastro de Fornecedores - INFO - Start: Mapear elementos da planilha excel (Form_Element_Action_Web)
+2025-08-27 16:04:42,144 - Cadastro de Fornecedores - INFO - Start: If Condition
+2025-08-27 16:04:42,145 - Cadastro de Fornecedores - INFO - Start: Else
+2025-08-27 16:04:42,145 - Cadastro de Fornecedores - INFO - Start: Click in botaoPJ element
+2025-08-27 16:04:42,288 - Cadastro de Fornecedores - INFO - End: Click in botaoPJ element
+2025-08-27 16:04:42,289 - Cadastro de Fornecedores - INFO - End: Else
+2025-08-27 16:04:42,289 - Cadastro de Fornecedores - INFO - Start: Type Into campoNomeRazao field
+2025-08-27 16:04:42,375 - Cadastro de Fornecedores - INFO - End: Type Into campoNomeRazao field
+2025-08-27 16:04:42,375 - Cadastro de Fornecedores - DEBUG - Empresa Omicron
+2025-08-27 16:04:42,375 - Cadastro de Fornecedores - INFO - Start: Type Into campoCpfCnpj field
+2025-08-27 16:04:42,476 - Cadastro de Fornecedores - INFO - End: Type Into campoCpfCnpj field
+2025-08-27 16:04:42,476 - Cadastro de Fornecedores - INFO - Start: Click in botaoEnviar element
+2025-08-27 16:04:42,594 - Cadastro de Fornecedores - INFO - End: Click in botaoEnviar element
+2025-08-27 16:04:42,594 - Cadastro de Fornecedores - INFO - End: Mapear elementos da planilha excel (Form_Element_Action_Web)
+2025-08-27 16:04:42,594 - Cadastro de Fornecedores - INFO - Start: Mapear elementos da planilha excel (Form_Element_Action_Web)
+2025-08-27 16:04:42,594 - Cadastro de Fornecedores - INFO - Start: If Condition
+2025-08-27 16:04:42,594 - Cadastro de Fornecedores - INFO - Start: Click in botaoPF element
+2025-08-27 16:04:42,714 - Cadastro de Fornecedores - INFO - End: Click in botaoPF element
+2025-08-27 16:04:42,714 - Cadastro de Fornecedores - INFO - End: If Condition
+2025-08-27 16:04:42,714 - Cadastro de Fornecedores - INFO - Start: Type Into campoNomeRazao field
+2025-08-27 16:04:42,812 - Cadastro de Fornecedores - INFO - End: Type Into campoNomeRazao field
+2025-08-27 16:04:42,812 - Cadastro de Fornecedores - DEBUG - Mariana Castro
+2025-08-27 16:04:42,812 - Cadastro de Fornecedores - INFO - Start: Type Into campoCpfCnpj field
+2025-08-27 16:04:42,908 - Cadastro de Fornecedores - INFO - End: Type Into campoCpfCnpj field
+2025-08-27 16:04:42,909 - Cadastro de Fornecedores - INFO - Start: Click in botaoEnviar element
+2025-08-27 16:04:43,008 - Cadastro de Fornecedores - INFO - End: Click in botaoEnviar element
+2025-08-27 16:04:43,008 - Cadastro de Fornecedores - INFO - End: Mapear elementos da planilha excel (Form_Element_Action_Web)
+2025-08-27 16:04:43,008 - Cadastro de Fornecedores - INFO - Start: Mapear elementos da planilha excel (Form_Element_Action_Web)
+2025-08-27 16:04:43,009 - Cadastro de Fornecedores - INFO - Start: If Condition
+2025-08-27 16:04:43,009 - Cadastro de Fornecedores - INFO - Start: Else
+2025-08-27 16:04:43,009 - Cadastro de Fornecedores - INFO - Start: Click in botaoPJ element
+2025-08-27 16:04:43,189 - Cadastro de Fornecedores - INFO - End: Click in botaoPJ element
+2025-08-27 16:04:43,189 - Cadastro de Fornecedores - INFO - End: Else
+2025-08-27 16:04:43,190 - Cadastro de Fornecedores - INFO - Start: Type Into campoNomeRazao field
+2025-08-27 16:04:43,288 - Cadastro de Fornecedores - INFO - End: Type Into campoNomeRazao field
+2025-08-27 16:04:43,289 - Cadastro de Fornecedores - DEBUG - Empresa Pi
+2025-08-27 16:04:43,289 - Cadastro de Fornecedores - INFO - Start: Type Into campoCpfCnpj field
+2025-08-27 16:04:43,443 - Cadastro de Fornecedores - INFO - End: Type Into campoCpfCnpj field
+2025-08-27 16:04:43,443 - Cadastro de Fornecedores - INFO - Start: Click in botaoEnviar element
+2025-08-27 16:04:43,600 - Cadastro de Fornecedores - INFO - End: Click in botaoEnviar element
+2025-08-27 16:04:43,600 - Cadastro de Fornecedores - INFO - End: Mapear elementos da planilha excel (Form_Element_Action_Web)
+2025-08-27 16:04:43,600 - Cadastro de Fornecedores - INFO - Start: Mapear elementos da planilha excel (Form_Element_Action_Web)
+2025-08-27 16:04:43,600 - Cadastro de Fornecedores - INFO - Start: If Condition
+2025-08-27 16:04:43,601 - Cadastro de Fornecedores - INFO - Start: Click in botaoPF element
+2025-08-27 16:04:43,716 - Cadastro de Fornecedores - INFO - End: Click in botaoPF element
+2025-08-27 16:04:43,716 - Cadastro de Fornecedores - INFO - End: If Condition
+2025-08-27 16:04:43,716 - Cadastro de Fornecedores - INFO - Start: Type Into campoNomeRazao field
+2025-08-27 16:04:43,824 - Cadastro de Fornecedores - INFO - End: Type Into campoNomeRazao field
+2025-08-27 16:04:43,825 - Cadastro de Fornecedores - DEBUG - Bruno Lima
+2025-08-27 16:04:43,825 - Cadastro de Fornecedores - INFO - Start: Type Into campoCpfCnpj field
+2025-08-27 16:04:43,963 - Cadastro de Fornecedores - INFO - End: Type Into campoCpfCnpj field
+2025-08-27 16:04:43,964 - Cadastro de Fornecedores - INFO - Start: Click in botaoEnviar element
+2025-08-27 16:04:44,116 - Cadastro de Fornecedores - INFO - End: Click in botaoEnviar element
+2025-08-27 16:04:44,116 - Cadastro de Fornecedores - INFO - End: Mapear elementos da planilha excel (Form_Element_Action_Web)
+2025-08-27 16:04:44,116 - Cadastro de Fornecedores - INFO - Start: Mapear elementos da planilha excel (Form_Element_Action_Web)
+2025-08-27 16:04:44,116 - Cadastro de Fornecedores - INFO - Start: If Condition
+2025-08-27 16:04:44,116 - Cadastro de Fornecedores - INFO - Start: Else
+2025-08-27 16:04:44,116 - Cadastro de Fornecedores - INFO - Start: Click in botaoPJ element
+2025-08-27 16:04:44,289 - Cadastro de Fornecedores - INFO - End: Click in botaoPJ element
+2025-08-27 16:04:44,290 - Cadastro de Fornecedores - INFO - End: Else
+2025-08-27 16:04:44,290 - Cadastro de Fornecedores - INFO - Start: Type Into campoNomeRazao field
+2025-08-27 16:04:44,396 - Cadastro de Fornecedores - INFO - End: Type Into campoNomeRazao field
+2025-08-27 16:04:44,396 - Cadastro de Fornecedores - DEBUG - Empresa Rho
+2025-08-27 16:04:44,396 - Cadastro de Fornecedores - INFO - Start: Type Into campoCpfCnpj field
+2025-08-27 16:04:44,507 - Cadastro de Fornecedores - INFO - End: Type Into campoCpfCnpj field
+2025-08-27 16:04:44,508 - Cadastro de Fornecedores - INFO - Start: Click in botaoEnviar element
+2025-08-27 16:04:44,661 - Cadastro de Fornecedores - INFO - End: Click in botaoEnviar element
+2025-08-27 16:04:44,661 - Cadastro de Fornecedores - INFO - End: Mapear elementos da planilha excel (Form_Element_Action_Web)
+2025-08-27 16:04:44,661 - Cadastro de Fornecedores - INFO - Start: Mapear elementos da planilha excel (Form_Element_Action_Web)
+2025-08-27 16:04:44,661 - Cadastro de Fornecedores - INFO - Start: If Condition
+2025-08-27 16:04:44,661 - Cadastro de Fornecedores - INFO - Start: Click in botaoPF element
+2025-08-27 16:04:44,798 - Cadastro de Fornecedores - INFO - End: Click in botaoPF element
+2025-08-27 16:04:44,799 - Cadastro de Fornecedores - INFO - End: If Condition
+2025-08-27 16:04:44,799 - Cadastro de Fornecedores - INFO - Start: Type Into campoNomeRazao field
+2025-08-27 16:04:44,915 - Cadastro de Fornecedores - INFO - End: Type Into campoNomeRazao field
+2025-08-27 16:04:44,918 - Cadastro de Fornecedores - DEBUG - Carolina Azevedo
+2025-08-27 16:04:44,919 - Cadastro de Fornecedores - INFO - Start: Type Into campoCpfCnpj field
+2025-08-27 16:04:45,026 - Cadastro de Fornecedores - INFO - End: Type Into campoCpfCnpj field
+2025-08-27 16:04:45,026 - Cadastro de Fornecedores - INFO - Start: Click in botaoEnviar element
+2025-08-27 16:04:45,157 - Cadastro de Fornecedores - INFO - End: Click in botaoEnviar element
+2025-08-27 16:04:45,157 - Cadastro de Fornecedores - INFO - End: Mapear elementos da planilha excel (Form_Element_Action_Web)
+2025-08-27 16:04:45,157 - Cadastro de Fornecedores - INFO - Start: Mapear elementos da planilha excel (Form_Element_Action_Web)
+2025-08-27 16:04:45,157 - Cadastro de Fornecedores - INFO - Start: If Condition
+2025-08-27 16:04:45,157 - Cadastro de Fornecedores - INFO - Start: Else
+2025-08-27 16:04:45,158 - Cadastro de Fornecedores - INFO - Start: Click in botaoPJ element
+2025-08-27 16:04:45,274 - Cadastro de Fornecedores - INFO - End: Click in botaoPJ element
+2025-08-27 16:04:45,274 - Cadastro de Fornecedores - INFO - End: Else
+2025-08-27 16:04:45,275 - Cadastro de Fornecedores - INFO - Start: Type Into campoNomeRazao field
+2025-08-27 16:04:45,378 - Cadastro de Fornecedores - INFO - End: Type Into campoNomeRazao field
+2025-08-27 16:04:45,378 - Cadastro de Fornecedores - DEBUG - Empresa Sigma
+2025-08-27 16:04:45,378 - Cadastro de Fornecedores - INFO - Start: Type Into campoCpfCnpj field
+2025-08-27 16:04:45,475 - Cadastro de Fornecedores - INFO - End: Type Into campoCpfCnpj field
+2025-08-27 16:04:45,475 - Cadastro de Fornecedores - INFO - Start: Click in botaoEnviar element
+2025-08-27 16:04:45,603 - Cadastro de Fornecedores - INFO - End: Click in botaoEnviar element
+2025-08-27 16:04:45,604 - Cadastro de Fornecedores - INFO - End: Mapear elementos da planilha excel (Form_Element_Action_Web)
+2025-08-27 16:04:45,604 - Cadastro de Fornecedores - INFO - Start: Mapear elementos da planilha excel (Form_Element_Action_Web)
+2025-08-27 16:04:45,604 - Cadastro de Fornecedores - INFO - Start: If Condition
+2025-08-27 16:04:45,604 - Cadastro de Fornecedores - INFO - Start: Click in botaoPF element
+2025-08-27 16:04:45,701 - Cadastro de Fornecedores - INFO - End: Click in botaoPF element
+2025-08-27 16:04:45,701 - Cadastro de Fornecedores - INFO - End: If Condition
+2025-08-27 16:04:45,701 - Cadastro de Fornecedores - INFO - Start: Type Into campoNomeRazao field
+2025-08-27 16:04:45,782 - Cadastro de Fornecedores - INFO - End: Type Into campoNomeRazao field
+2025-08-27 16:04:45,782 - Cadastro de Fornecedores - DEBUG - Vinicius Correia
+2025-08-27 16:04:45,783 - Cadastro de Fornecedores - INFO - Start: Type Into campoCpfCnpj field
+2025-08-27 16:04:45,853 - Cadastro de Fornecedores - INFO - End: Type Into campoCpfCnpj field
+2025-08-27 16:04:45,853 - Cadastro de Fornecedores - INFO - Start: Click in botaoEnviar element
+2025-08-27 16:04:45,961 - Cadastro de Fornecedores - INFO - End: Click in botaoEnviar element
+2025-08-27 16:04:45,962 - Cadastro de Fornecedores - INFO - End: Mapear elementos da planilha excel (Form_Element_Action_Web)
+2025-08-27 16:04:45,962 - Cadastro de Fornecedores - INFO - Start: Mapear elementos da planilha excel (Form_Element_Action_Web)
+2025-08-27 16:04:45,962 - Cadastro de Fornecedores - INFO - Start: If Condition
+2025-08-27 16:04:45,962 - Cadastro de Fornecedores - INFO - Start: Else
+2025-08-27 16:04:45,963 - Cadastro de Fornecedores - INFO - Start: Click in botaoPJ element
+2025-08-27 16:04:46,060 - Cadastro de Fornecedores - INFO - End: Click in botaoPJ element
+2025-08-27 16:04:46,060 - Cadastro de Fornecedores - INFO - End: Else
+2025-08-27 16:04:46,060 - Cadastro de Fornecedores - INFO - Start: Type Into campoNomeRazao field
+2025-08-27 16:04:46,138 - Cadastro de Fornecedores - INFO - End: Type Into campoNomeRazao field
+2025-08-27 16:04:46,139 - Cadastro de Fornecedores - DEBUG - Empresa Tau
+2025-08-27 16:04:46,139 - Cadastro de Fornecedores - INFO - Start: Type Into campoCpfCnpj field
+2025-08-27 16:04:46,215 - Cadastro de Fornecedores - INFO - End: Type Into campoCpfCnpj field
+2025-08-27 16:04:46,215 - Cadastro de Fornecedores - INFO - Start: Click in botaoEnviar element
+2025-08-27 16:04:46,331 - Cadastro de Fornecedores - INFO - End: Click in botaoEnviar element
+2025-08-27 16:04:46,331 - Cadastro de Fornecedores - INFO - End: Mapear elementos da planilha excel (Form_Element_Action_Web)
+2025-08-27 16:04:46,331 - Cadastro de Fornecedores - INFO - Start: Mapear elementos da planilha excel (Form_Element_Action_Web)
+2025-08-27 16:04:46,331 - Cadastro de Fornecedores - INFO - Start: If Condition
+2025-08-27 16:04:46,331 - Cadastro de Fornecedores - INFO - Start: Click in botaoPF element
+2025-08-27 16:04:46,473 - Cadastro de Fornecedores - INFO - End: Click in botaoPF element
+2025-08-27 16:04:46,473 - Cadastro de Fornecedores - INFO - End: If Condition
+2025-08-27 16:04:46,473 - Cadastro de Fornecedores - INFO - Start: Type Into campoNomeRazao field
+2025-08-27 16:04:46,571 - Cadastro de Fornecedores - INFO - End: Type Into campoNomeRazao field
+2025-08-27 16:04:46,572 - Cadastro de Fornecedores - DEBUG - Aline Mendes
+2025-08-27 16:04:46,572 - Cadastro de Fornecedores - INFO - Start: Type Into campoCpfCnpj field
+2025-08-27 16:04:46,658 - Cadastro de Fornecedores - INFO - End: Type Into campoCpfCnpj field
+2025-08-27 16:04:46,658 - Cadastro de Fornecedores - INFO - Start: Click in botaoEnviar element
+2025-08-27 16:04:46,743 - Cadastro de Fornecedores - INFO - End: Click in botaoEnviar element
+2025-08-27 16:04:46,743 - Cadastro de Fornecedores - INFO - End: Mapear elementos da planilha excel (Form_Element_Action_Web)
+2025-08-27 16:04:46,743 - Cadastro de Fornecedores - INFO - Start: Mapear elementos da planilha excel (Form_Element_Action_Web)
+2025-08-27 16:04:46,743 - Cadastro de Fornecedores - INFO - Start: If Condition
+2025-08-27 16:04:46,743 - Cadastro de Fornecedores - INFO - Start: Else
+2025-08-27 16:04:46,743 - Cadastro de Fornecedores - INFO - Start: Click in botaoPJ element
+2025-08-27 16:04:46,841 - Cadastro de Fornecedores - INFO - End: Click in botaoPJ element
+2025-08-27 16:04:46,841 - Cadastro de Fornecedores - INFO - End: Else
+2025-08-27 16:04:46,841 - Cadastro de Fornecedores - INFO - Start: Type Into campoNomeRazao field
+2025-08-27 16:04:46,912 - Cadastro de Fornecedores - INFO - End: Type Into campoNomeRazao field
+2025-08-27 16:04:46,912 - Cadastro de Fornecedores - DEBUG - Empresa Upsilon
+2025-08-27 16:04:46,912 - Cadastro de Fornecedores - INFO - Start: Type Into campoCpfCnpj field
+2025-08-27 16:04:47,004 - Cadastro de Fornecedores - INFO - End: Type Into campoCpfCnpj field
+2025-08-27 16:04:47,004 - Cadastro de Fornecedores - INFO - Start: Click in botaoEnviar element
+2025-08-27 16:04:47,087 - Cadastro de Fornecedores - INFO - End: Click in botaoEnviar element
+2025-08-27 16:04:47,087 - Cadastro de Fornecedores - INFO - End: Mapear elementos da planilha excel (Form_Element_Action_Web)
+2025-08-27 16:04:47,087 - Cadastro de Fornecedores - INFO - Start: Mapear elementos da planilha excel (Form_Element_Action_Web)
+2025-08-27 16:04:47,087 - Cadastro de Fornecedores - INFO - Start: If Condition
+2025-08-27 16:04:47,087 - Cadastro de Fornecedores - INFO - Start: Click in botaoPF element
+2025-08-27 16:04:47,174 - Cadastro de Fornecedores - INFO - End: Click in botaoPF element
+2025-08-27 16:04:47,174 - Cadastro de Fornecedores - INFO - End: If Condition
+2025-08-27 16:04:47,174 - Cadastro de Fornecedores - INFO - Start: Type Into campoNomeRazao field
+2025-08-27 16:04:47,242 - Cadastro de Fornecedores - INFO - End: Type Into campoNomeRazao field
+2025-08-27 16:04:47,242 - Cadastro de Fornecedores - DEBUG - Douglas Ribeiro
+2025-08-27 16:04:47,243 - Cadastro de Fornecedores - INFO - Start: Type Into campoCpfCnpj field
+2025-08-27 16:04:47,312 - Cadastro de Fornecedores - INFO - End: Type Into campoCpfCnpj field
+2025-08-27 16:04:47,312 - Cadastro de Fornecedores - INFO - Start: Click in botaoEnviar element
+2025-08-27 16:04:47,401 - Cadastro de Fornecedores - INFO - End: Click in botaoEnviar element
+2025-08-27 16:04:47,401 - Cadastro de Fornecedores - INFO - End: Mapear elementos da planilha excel (Form_Element_Action_Web)
+2025-08-27 16:04:47,401 - Cadastro de Fornecedores - INFO - Start: Mapear elementos da planilha excel (Form_Element_Action_Web)
+2025-08-27 16:04:47,401 - Cadastro de Fornecedores - INFO - Start: If Condition
+2025-08-27 16:04:47,401 - Cadastro de Fornecedores - INFO - Start: Else
+2025-08-27 16:04:47,401 - Cadastro de Fornecedores - INFO - Start: Click in botaoPJ element
+2025-08-27 16:04:47,487 - Cadastro de Fornecedores - INFO - End: Click in botaoPJ element
+2025-08-27 16:04:47,487 - Cadastro de Fornecedores - INFO - End: Else
+2025-08-27 16:04:47,487 - Cadastro de Fornecedores - INFO - Start: Type Into campoNomeRazao field
+2025-08-27 16:04:47,554 - Cadastro de Fornecedores - INFO - End: Type Into campoNomeRazao field
+2025-08-27 16:04:47,554 - Cadastro de Fornecedores - DEBUG - Empresa Phi
+2025-08-27 16:04:47,554 - Cadastro de Fornecedores - INFO - Start: Type Into campoCpfCnpj field
+2025-08-27 16:04:47,645 - Cadastro de Fornecedores - INFO - End: Type Into campoCpfCnpj field
+2025-08-27 16:04:47,645 - Cadastro de Fornecedores - INFO - Start: Click in botaoEnviar element
+2025-08-27 16:04:47,720 - Cadastro de Fornecedores - INFO - End: Click in botaoEnviar element
+2025-08-27 16:04:47,720 - Cadastro de Fornecedores - INFO - End: Mapear elementos da planilha excel (Form_Element_Action_Web)
+2025-08-27 16:04:47,720 - Cadastro de Fornecedores - INFO - Start: Mapear elementos da planilha excel (Form_Element_Action_Web)
+2025-08-27 16:04:47,720 - Cadastro de Fornecedores - INFO - Start: If Condition
+2025-08-27 16:04:47,720 - Cadastro de Fornecedores - INFO - Start: Click in botaoPF element
+2025-08-27 16:04:47,818 - Cadastro de Fornecedores - INFO - End: Click in botaoPF element
+2025-08-27 16:04:47,819 - Cadastro de Fornecedores - INFO - End: If Condition
+2025-08-27 16:04:47,819 - Cadastro de Fornecedores - INFO - Start: Type Into campoNomeRazao field
+2025-08-27 16:04:47,904 - Cadastro de Fornecedores - INFO - End: Type Into campoNomeRazao field
+2025-08-27 16:04:47,904 - Cadastro de Fornecedores - DEBUG - Eliane Nogueira
+2025-08-27 16:04:47,904 - Cadastro de Fornecedores - INFO - Start: Type Into campoCpfCnpj field
+2025-08-27 16:04:47,978 - Cadastro de Fornecedores - INFO - End: Type Into campoCpfCnpj field
+2025-08-27 16:04:47,978 - Cadastro de Fornecedores - INFO - Start: Click in botaoEnviar element
+2025-08-27 16:04:48,072 - Cadastro de Fornecedores - INFO - End: Click in botaoEnviar element
+2025-08-27 16:04:48,072 - Cadastro de Fornecedores - INFO - End: Mapear elementos da planilha excel (Form_Element_Action_Web)
+2025-08-27 16:04:48,072 - Cadastro de Fornecedores - INFO - Start: Mapear elementos da planilha excel (Form_Element_Action_Web)
+2025-08-27 16:04:48,072 - Cadastro de Fornecedores - INFO - Start: If Condition
+2025-08-27 16:04:48,072 - Cadastro de Fornecedores - INFO - Start: Else
+2025-08-27 16:04:48,072 - Cadastro de Fornecedores - INFO - Start: Click in botaoPJ element
+2025-08-27 16:04:48,171 - Cadastro de Fornecedores - INFO - End: Click in botaoPJ element
+2025-08-27 16:04:48,171 - Cadastro de Fornecedores - INFO - End: Else
+2025-08-27 16:04:48,171 - Cadastro de Fornecedores - INFO - Start: Type Into campoNomeRazao field
+2025-08-27 16:04:48,260 - Cadastro de Fornecedores - INFO - End: Type Into campoNomeRazao field
+2025-08-27 16:04:48,260 - Cadastro de Fornecedores - DEBUG - Empresa Chi
+2025-08-27 16:04:48,260 - Cadastro de Fornecedores - INFO - Start: Type Into campoCpfCnpj field
+2025-08-27 16:04:48,352 - Cadastro de Fornecedores - INFO - End: Type Into campoCpfCnpj field
+2025-08-27 16:04:48,352 - Cadastro de Fornecedores - INFO - Start: Click in botaoEnviar element
+2025-08-27 16:04:48,441 - Cadastro de Fornecedores - INFO - End: Click in botaoEnviar element
+2025-08-27 16:04:48,441 - Cadastro de Fornecedores - INFO - End: Mapear elementos da planilha excel (Form_Element_Action_Web)
+2025-08-27 16:04:48,441 - Cadastro de Fornecedores - INFO - Start: Mapear elementos da planilha excel (Form_Element_Action_Web)
+2025-08-27 16:04:48,442 - Cadastro de Fornecedores - INFO - Start: If Condition
+2025-08-27 16:04:48,442 - Cadastro de Fornecedores - INFO - Start: Click in botaoPF element
+2025-08-27 16:04:48,547 - Cadastro de Fornecedores - INFO - End: Click in botaoPF element
+2025-08-27 16:04:48,547 - Cadastro de Fornecedores - INFO - End: If Condition
+2025-08-27 16:04:48,547 - Cadastro de Fornecedores - INFO - Start: Type Into campoNomeRazao field
+2025-08-27 16:04:48,640 - Cadastro de Fornecedores - INFO - End: Type Into campoNomeRazao field
+2025-08-27 16:04:48,641 - Cadastro de Fornecedores - DEBUG - Fábio Teixeira
+2025-08-27 16:04:48,641 - Cadastro de Fornecedores - INFO - Start: Type Into campoCpfCnpj field
+2025-08-27 16:04:48,709 - Cadastro de Fornecedores - INFO - End: Type Into campoCpfCnpj field
+2025-08-27 16:04:48,710 - Cadastro de Fornecedores - INFO - Start: Click in botaoEnviar element
+2025-08-27 16:04:48,793 - Cadastro de Fornecedores - INFO - End: Click in botaoEnviar element
+2025-08-27 16:04:48,793 - Cadastro de Fornecedores - INFO - End: Mapear elementos da planilha excel (Form_Element_Action_Web)
+2025-08-27 16:04:48,793 - Cadastro de Fornecedores - INFO - Start: Mapear elementos da planilha excel (Form_Element_Action_Web)
+2025-08-27 16:04:48,794 - Cadastro de Fornecedores - INFO - Start: If Condition
+2025-08-27 16:04:48,794 - Cadastro de Fornecedores - INFO - Start: Else
+2025-08-27 16:04:48,794 - Cadastro de Fornecedores - INFO - Start: Click in botaoPJ element
+2025-08-27 16:04:48,888 - Cadastro de Fornecedores - INFO - End: Click in botaoPJ element
+2025-08-27 16:04:48,888 - Cadastro de Fornecedores - INFO - End: Else
+2025-08-27 16:04:48,888 - Cadastro de Fornecedores - INFO - Start: Type Into campoNomeRazao field
+2025-08-27 16:04:48,975 - Cadastro de Fornecedores - INFO - End: Type Into campoNomeRazao field
+2025-08-27 16:04:48,975 - Cadastro de Fornecedores - DEBUG - Empresa Psi
+2025-08-27 16:04:48,975 - Cadastro de Fornecedores - INFO - Start: Type Into campoCpfCnpj field
+2025-08-27 16:04:49,048 - Cadastro de Fornecedores - INFO - End: Type Into campoCpfCnpj field
+2025-08-27 16:04:49,049 - Cadastro de Fornecedores - INFO - Start: Click in botaoEnviar element
+2025-08-27 16:04:49,126 - Cadastro de Fornecedores - INFO - End: Click in botaoEnviar element
+2025-08-27 16:04:49,126 - Cadastro de Fornecedores - INFO - End: Mapear elementos da planilha excel (Form_Element_Action_Web)
+2025-08-27 16:04:49,127 - Cadastro de Fornecedores - INFO - Start: Mapear elementos da planilha excel (Form_Element_Action_Web)
+2025-08-27 16:04:49,127 - Cadastro de Fornecedores - INFO - Start: If Condition
+2025-08-27 16:04:49,127 - Cadastro de Fornecedores - INFO - Start: Click in botaoPF element
+2025-08-27 16:04:49,213 - Cadastro de Fornecedores - INFO - End: Click in botaoPF element
+2025-08-27 16:04:49,214 - Cadastro de Fornecedores - INFO - End: If Condition
+2025-08-27 16:04:49,214 - Cadastro de Fornecedores - INFO - Start: Type Into campoNomeRazao field
+2025-08-27 16:04:49,300 - Cadastro de Fornecedores - INFO - End: Type Into campoNomeRazao field
+2025-08-27 16:04:49,301 - Cadastro de Fornecedores - DEBUG - Gustavo Cardoso
+2025-08-27 16:04:49,301 - Cadastro de Fornecedores - INFO - Start: Type Into campoCpfCnpj field
+2025-08-27 16:04:49,372 - Cadastro de Fornecedores - INFO - End: Type Into campoCpfCnpj field
+2025-08-27 16:04:49,373 - Cadastro de Fornecedores - INFO - Start: Click in botaoEnviar element
+2025-08-27 16:04:49,455 - Cadastro de Fornecedores - INFO - End: Click in botaoEnviar element
+2025-08-27 16:04:49,456 - Cadastro de Fornecedores - INFO - End: Mapear elementos da planilha excel (Form_Element_Action_Web)
+2025-08-27 16:04:49,456 - Cadastro de Fornecedores - INFO - Start: Mapear elementos da planilha excel (Form_Element_Action_Web)
+2025-08-27 16:04:49,456 - Cadastro de Fornecedores - INFO - Start: If Condition
+2025-08-27 16:04:49,456 - Cadastro de Fornecedores - INFO - Start: Else
+2025-08-27 16:04:49,456 - Cadastro de Fornecedores - INFO - Start: Click in botaoPJ element
+2025-08-27 16:04:49,578 - Cadastro de Fornecedores - INFO - End: Click in botaoPJ element
+2025-08-27 16:04:49,578 - Cadastro de Fornecedores - INFO - End: Else
+2025-08-27 16:04:49,578 - Cadastro de Fornecedores - INFO - Start: Type Into campoNomeRazao field
+2025-08-27 16:04:49,678 - Cadastro de Fornecedores - INFO - End: Type Into campoNomeRazao field
+2025-08-27 16:04:49,678 - Cadastro de Fornecedores - DEBUG - Empresa Omega
+2025-08-27 16:04:49,678 - Cadastro de Fornecedores - INFO - Start: Type Into campoCpfCnpj field
+2025-08-27 16:04:49,794 - Cadastro de Fornecedores - INFO - End: Type Into campoCpfCnpj field
+2025-08-27 16:04:49,795 - Cadastro de Fornecedores - INFO - Start: Click in botaoEnviar element
+2025-08-27 16:04:49,885 - Cadastro de Fornecedores - INFO - End: Click in botaoEnviar element
+2025-08-27 16:04:49,885 - Cadastro de Fornecedores - INFO - End: Mapear elementos da planilha excel (Form_Element_Action_Web)
+2025-08-27 16:04:49,885 - Cadastro de Fornecedores - INFO - Start: Mapear elementos da planilha excel (Form_Element_Action_Web)
+2025-08-27 16:04:49,885 - Cadastro de Fornecedores - INFO - Start: If Condition
+2025-08-27 16:04:49,885 - Cadastro de Fornecedores - INFO - Start: Click in botaoPF element
+2025-08-27 16:04:50,016 - Cadastro de Fornecedores - INFO - End: Click in botaoPF element
+2025-08-27 16:04:50,016 - Cadastro de Fornecedores - INFO - End: If Condition
+2025-08-27 16:04:50,016 - Cadastro de Fornecedores - INFO - Start: Type Into campoNomeRazao field
+2025-08-27 16:04:50,108 - Cadastro de Fornecedores - INFO - End: Type Into campoNomeRazao field
+2025-08-27 16:04:50,109 - Cadastro de Fornecedores - DEBUG - Helena Duarte
+2025-08-27 16:04:50,109 - Cadastro de Fornecedores - INFO - Start: Type Into campoCpfCnpj field
+2025-08-27 16:04:50,210 - Cadastro de Fornecedores - INFO - End: Type Into campoCpfCnpj field
+2025-08-27 16:04:50,210 - Cadastro de Fornecedores - INFO - Start: Click in botaoEnviar element
+2025-08-27 16:04:50,325 - Cadastro de Fornecedores - INFO - End: Click in botaoEnviar element
+2025-08-27 16:04:50,325 - Cadastro de Fornecedores - INFO - End: Mapear elementos da planilha excel (Form_Element_Action_Web)
+2025-08-27 16:04:50,325 - Cadastro de Fornecedores - INFO - Start: Mapear elementos da planilha excel (Form_Element_Action_Web)
+2025-08-27 16:04:50,325 - Cadastro de Fornecedores - INFO - Start: If Condition
+2025-08-27 16:04:50,326 - Cadastro de Fornecedores - INFO - Start: Else
+2025-08-27 16:04:50,326 - Cadastro de Fornecedores - INFO - Start: Click in botaoPJ element
+2025-08-27 16:04:50,492 - Cadastro de Fornecedores - INFO - End: Click in botaoPJ element
+2025-08-27 16:04:50,492 - Cadastro de Fornecedores - INFO - End: Else
+2025-08-27 16:04:50,492 - Cadastro de Fornecedores - INFO - Start: Type Into campoNomeRazao field
+2025-08-27 16:04:50,646 - Cadastro de Fornecedores - INFO - End: Type Into campoNomeRazao field
+2025-08-27 16:04:50,647 - Cadastro de Fornecedores - DEBUG - Empresa Alpha Beta
+2025-08-27 16:04:50,647 - Cadastro de Fornecedores - INFO - Start: Type Into campoCpfCnpj field
+2025-08-27 16:04:50,774 - Cadastro de Fornecedores - INFO - End: Type Into campoCpfCnpj field
+2025-08-27 16:04:50,774 - Cadastro de Fornecedores - INFO - Start: Click in botaoEnviar element
+2025-08-27 16:04:50,878 - Cadastro de Fornecedores - INFO - End: Click in botaoEnviar element
+2025-08-27 16:04:50,878 - Cadastro de Fornecedores - INFO - End: Mapear elementos da planilha excel (Form_Element_Action_Web)
+2025-08-27 16:04:50,878 - Cadastro de Fornecedores - INFO - End: ForEach
+2025-08-27 16:04:50,878 - Cadastro de Fornecedores - INFO - Start: Wait
+2025-08-27 16:04:53,879 - Cadastro de Fornecedores - INFO - End: Wait

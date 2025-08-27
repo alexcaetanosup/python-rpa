@@ -3,6 +3,7 @@
  xmlns:jer="clr-namespace:JornadaRPA.Excel.Read_Excel;assembly=JornadaRPA.Excel"
  xmlns:jkt="clr-namespace:JornadaRPA.Keyboard.Type_Into;assembly=JornadaRPA.Keyboard"
  xmlns:jll="clr-namespace:JornadaRPA.Logger.LoggerConfig;assembly=JornadaRPA.Logger"
+ xmlns:jlw="clr-namespace:JornadaRPA.Logger.WriteLog;assembly=JornadaRPA.Logger"
  xmlns:jmc="clr-namespace:JornadaRPA.Mouse.Click;assembly=JornadaRPA.Mouse"
  xmlns:jpe="clr-namespace:JornadaRPA.Python.Else;assembly=JornadaRPA.Python"
  xmlns:jpf="clr-namespace:JornadaRPA.Python.ForEach;assembly=JornadaRPA.Python"
@@ -20,7 +21,7 @@
  xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib"
  xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <Sequence DisplayName="Cadastro de Fornecedores (sequence)" sap2010:WorkflowViewState.IdRef="Sequence_1">
-    <jll:LoggerConfig sap2010:WorkflowViewState.IdRef="LoggerConfig_1" automaticoLogger="True" backupCount="10" description="&quot;Cadastro de Fornecedores&quot;" fileLogger="&quot;fileLogging.log&quot;" formatter="&quot;%(asctime)s - %(name)s - %(levelname)s - %(message)s&quot;" instance="loggerBot" loggerLevel="DEBUG" maxBytes="20000" />
+    <jll:LoggerConfig sap2010:WorkflowViewState.IdRef="LoggerConfig_1" automaticoLogger="True" backupCount="10" description="&quot;Cadastro de Fornecedores&quot;" fileLogger="&quot;fileLogging.log&quot;" formatter="&quot;%(asctime)s - %(name)s - %(levelname)s - %(message)s&quot;" instance="loggerBot" loggerLevel="DEBUG" maxBytes="100000" />
     <jwo:OpenBrowser download_folder_path="{x:Null}" user_data_dir="{x:Null}" DisplayName="Abrir o cadastro de fornecedore (OpenBrowser)" Headless="False" sap2010:WorkflowViewState.IdRef="OpenBrowser_1" Url="&quot;https://jornadarpa.com.br/alunos/desafios/cadfor25&quot;" WebDriverPath="''" anonimous="False" arguments="[]" createInstance="True" inBrowser="CHROME" outBrowser="webBot" page_load_strategy="Normal" upWebDriver="True" />
     <jwe:Element_Library InstanceBrowser="{x:Null}" DisplayName="Mapeamento dos elementos da pagina de login (Element_Library)" sap2010:WorkflowViewState.IdRef="Element_Library_1" by="ID" ensure_clickable="True" ensure_visible="True" instance_element="idbtnLogin" selector="&quot;btnLogin&quot;" waiting_time="0">
       <jwe:Element_Library.Body>
@@ -95,6 +96,7 @@
                       </jpi:If_Container.Body>
                     </jpi:If_Container>
                     <jkt:Type_Into DisplayName="Type Into campoNomeRazao field" sap2010:WorkflowViewState.IdRef="Type_Into_9" click_before="False" element_instance="campoNomeRazao" empty_field="False" interval="0" text="linha[1]" type="Send_Keys" with_spaces="True" />
+                    <jlw:WriteLog sap2010:WorkflowViewState.IdRef="WriteLog_2" instance="loggerBot" message="linha[1]" typeLog="DEBUG" />
                     <jkt:Type_Into DisplayName="Type Into campoCpfCnpj field" sap2010:WorkflowViewState.IdRef="Type_Into_10" click_before="False" element_instance="campoCpfCnpj" empty_field="False" interval="0" text="linha[2]" type="Send_Keys" with_spaces="True" />
                     <jmc:Click DisplayName="Click in botaoEnviar element" Element="botaoEnviar" sap2010:WorkflowViewState.IdRef="Click_15" button="Left" clicks="One" interval_between_clicks="0" wait_after="300" />
                   </Sequence>
@@ -106,12 +108,26 @@
       </jpf:ForEach.Body>
     </jpf:ForEach>
     <jww:Wait sap2010:WorkflowViewState.IdRef="Wait_1" InstanceBrowser="webBot" wait_time="3000" />
-    <sads:DebugSymbol.Symbol>dxxDOlxSUEFcRm9ybmVjZWRvcmVzXEJvdC54YW1sCRYDbg4CAQEXBRfWAgIBCRgFGLMDAgEIGQUkGwIBByUFMCQCAQYxBTHHAgIBBTIFPhsCAQQ/BWsTAgEDbAVsZAIBAg==</sads:DebugSymbol.Symbol>
+    <sads:DebugSymbol.Symbol>dxxDOlxSUEFcRm9ybmVjZWRvcmVzXEJvdC54YW1sCRcDcA4CAQEYBRjXAgIBCRkFGbMDAgEIGgUlGwIBByYFMSQCAQYyBTLHAgIBBTMFPxsCAQRABW0TAgEDbgVuZAIBAg==</sads:DebugSymbol.Symbol>
   </Sequence>
   <sap2010:WorkflowViewState.ViewStateManager>
     <sap2010:ViewStateManager>
-      <sap2010:ViewStateData Id="LoggerConfig_1" sap:VirtualizedContainerService.HintSize="531.2,213.6" />
-      <sap2010:ViewStateData Id="OpenBrowser_1" sap:VirtualizedContainerService.HintSize="531.2,195.2" />
+      <sap2010:ViewStateData Id="LoggerConfig_1" sap:VirtualizedContainerService.HintSize="531.2,213.6">
+        <sap:WorkflowViewStateService.ViewState>
+          <scg:Dictionary x:TypeArguments="x:String, x:Object">
+            <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+            <x:Boolean x:Key="IsPinned">False</x:Boolean>
+          </scg:Dictionary>
+        </sap:WorkflowViewStateService.ViewState>
+      </sap2010:ViewStateData>
+      <sap2010:ViewStateData Id="OpenBrowser_1" sap:VirtualizedContainerService.HintSize="531.2,195.2">
+        <sap:WorkflowViewStateService.ViewState>
+          <scg:Dictionary x:TypeArguments="x:String, x:Object">
+            <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+            <x:Boolean x:Key="IsPinned">False</x:Boolean>
+          </scg:Dictionary>
+        </sap:WorkflowViewStateService.ViewState>
+      </sap2010:ViewStateData>
       <sap2010:ViewStateData Id="Find_Element_1" sap:VirtualizedContainerService.HintSize="200,178.4">
         <sap:WorkflowViewStateService.ViewState>
           <scg:Dictionary x:TypeArguments="x:String, x:Object">
@@ -150,10 +166,10 @@
           </scg:Dictionary>
         </sap:WorkflowViewStateService.ViewState>
       </sap2010:ViewStateData>
-      <sap2010:ViewStateData Id="Element_Library_1" sap:VirtualizedContainerService.HintSize="531.2,152.8">
+      <sap2010:ViewStateData Id="Element_Library_1" sap:VirtualizedContainerService.HintSize="531.2,76">
         <sap:WorkflowViewStateService.ViewState>
           <scg:Dictionary x:TypeArguments="x:String, x:Object">
-            <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+            <x:Boolean x:Key="IsExpanded">False</x:Boolean>
             <x:Boolean x:Key="IsPinned">False</x:Boolean>
           </scg:Dictionary>
         </sap:WorkflowViewStateService.ViewState>
@@ -191,7 +207,14 @@
           </scg:Dictionary>
         </sap:WorkflowViewStateService.ViewState>
       </sap2010:ViewStateData>
-      <sap2010:ViewStateData Id="Element_Library_3" sap:VirtualizedContainerService.HintSize="531.2,1276.8" />
+      <sap2010:ViewStateData Id="Element_Library_3" sap:VirtualizedContainerService.HintSize="531.2,76">
+        <sap:WorkflowViewStateService.ViewState>
+          <scg:Dictionary x:TypeArguments="x:String, x:Object">
+            <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+            <x:Boolean x:Key="IsPinned">False</x:Boolean>
+          </scg:Dictionary>
+        </sap:WorkflowViewStateService.ViewState>
+      </sap2010:ViewStateData>
       <sap2010:ViewStateData Id="Click_13" sap:VirtualizedContainerService.HintSize="200,82.4" />
       <sap2010:ViewStateData Id="Sequence_13" sap:VirtualizedContainerService.HintSize="222.4,207.2">
         <sap:WorkflowViewStateService.ViewState>
@@ -219,33 +242,34 @@
       </sap2010:ViewStateData>
       <sap2010:ViewStateData Id="If_Container_2" sap:VirtualizedContainerService.HintSize="457.6,908.8" />
       <sap2010:ViewStateData Id="Type_Into_9" sap:VirtualizedContainerService.HintSize="457.6,125.6" />
+      <sap2010:ViewStateData Id="WriteLog_2" sap:VirtualizedContainerService.HintSize="457.6,168" />
       <sap2010:ViewStateData Id="Type_Into_10" sap:VirtualizedContainerService.HintSize="457.6,125.6" />
       <sap2010:ViewStateData Id="Click_15" sap:VirtualizedContainerService.HintSize="457.6,82.4" />
-      <sap2010:ViewStateData Id="Sequence_12" sap:VirtualizedContainerService.HintSize="480,1487.2">
+      <sap2010:ViewStateData Id="Sequence_12" sap:VirtualizedContainerService.HintSize="480,1695.2">
         <sap:WorkflowViewStateService.ViewState>
           <scg:Dictionary x:TypeArguments="x:String, x:Object">
             <x:Boolean x:Key="IsExpanded">True</x:Boolean>
           </scg:Dictionary>
         </sap:WorkflowViewStateService.ViewState>
       </sap2010:ViewStateData>
-      <sap2010:ViewStateData Id="Form_Element_Action_Web_3" sap:VirtualizedContainerService.HintSize="494.4,1587.2" />
-      <sap2010:ViewStateData Id="Sequence_11" sap:VirtualizedContainerService.HintSize="516.8,1712">
+      <sap2010:ViewStateData Id="Form_Element_Action_Web_3" sap:VirtualizedContainerService.HintSize="494.4,1795.2" />
+      <sap2010:ViewStateData Id="Sequence_11" sap:VirtualizedContainerService.HintSize="516.8,1920">
         <sap:WorkflowViewStateService.ViewState>
           <scg:Dictionary x:TypeArguments="x:String, x:Object">
             <x:Boolean x:Key="IsExpanded">True</x:Boolean>
           </scg:Dictionary>
         </sap:WorkflowViewStateService.ViewState>
       </sap2010:ViewStateData>
-      <sap2010:ViewStateData Id="ForEach_2" sap:VirtualizedContainerService.HintSize="531.2,1839.2" />
+      <sap2010:ViewStateData Id="ForEach_2" sap:VirtualizedContainerService.HintSize="531.2,2047.2" />
       <sap2010:ViewStateData Id="Wait_1" sap:VirtualizedContainerService.HintSize="531.2,96.8" />
-      <sap2010:ViewStateData Id="Sequence_1" sap:VirtualizedContainerService.HintSize="553.6,4525.6">
+      <sap2010:ViewStateData Id="Sequence_1" sap:VirtualizedContainerService.HintSize="553.6,3456">
         <sap:WorkflowViewStateService.ViewState>
           <scg:Dictionary x:TypeArguments="x:String, x:Object">
             <x:Boolean x:Key="IsExpanded">True</x:Boolean>
           </scg:Dictionary>
         </sap:WorkflowViewStateService.ViewState>
       </sap2010:ViewStateData>
-      <sap2010:ViewStateData Id="JornadaRPAStudio.Workflow_1" sap:VirtualizedContainerService.HintSize="593.6,4605.6" />
+      <sap2010:ViewStateData Id="JornadaRPAStudio.Workflow_1" sap:VirtualizedContainerService.HintSize="593.6,3536" />
     </sap2010:ViewStateManager>
   </sap2010:WorkflowViewState.ViewStateManager>
 </Activity>
